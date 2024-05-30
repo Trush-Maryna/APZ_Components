@@ -1,0 +1,13 @@
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\bin\Release\net8.0-windows\WeekDaysComponent.deps.json
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\bin\Release\net8.0-windows\WeekDaysComponent.dll
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\bin\Release\net8.0-windows\WeekDaysComponent.pdb
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\obj\Release\net8.0-windows\WeekDaysComponent.WeekDaysControl.resources
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\obj\Release\net8.0-windows\WeekDaysComponent.csproj.GenerateResource.cache
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\obj\Release\net8.0-windows\WeekDaysComponent.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\obj\Release\net8.0-windows\WeekDaysComponent.AssemblyInfoInputs.cache
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\obj\Release\net8.0-windows\WeekDaysComponent.AssemblyInfo.cs
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\obj\Release\net8.0-windows\WeekDaysComponent.csproj.CoreCompileInputs.cache
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\obj\Release\net8.0-windows\WeekDaysComponent.dll
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\obj\Release\net8.0-windows\refint\WeekDaysComponent.dll
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\obj\Release\net8.0-windows\WeekDaysComponent.pdb
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\obj\Release\net8.0-windows\ref\WeekDaysComponent.dll

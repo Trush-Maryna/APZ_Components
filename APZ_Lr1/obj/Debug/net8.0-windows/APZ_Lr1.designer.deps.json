@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeekDaysComponent/1.0.0": {
+        "runtime": {
+          "lib/net8.0-windows7.0/WeekDaysComponent.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeekDaysComponent/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dXZHuwNt7aU1bKwAOoyjOtz6tLZVeDNiCc3Az5lAbO1OOicrZY9jnw+ZLDNmiROD5/DEzuEWH08A2wrDtS14VA==",
+      "path": "weekdayscomponent/1.0.0",
+      "hashPath": "weekdayscomponent.1.0.0.nupkg.sha512"
+    }
+  }
+}

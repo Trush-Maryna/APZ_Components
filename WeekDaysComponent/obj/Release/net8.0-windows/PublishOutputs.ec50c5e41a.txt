@@ -1,0 +1,3 @@
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\bin\Release\net8.0-windows\publish\WeekDaysComponent.dll
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\bin\Release\net8.0-windows\publish\WeekDaysComponent.deps.json
+D:\VS Community\C#.NET_2\APZ_Lr1_Trush\WeekDaysComponent\bin\Release\net8.0-windows\publish\WeekDaysComponent.pdb
